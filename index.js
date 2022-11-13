@@ -1,1 +1,6 @@
-// Code your solutions in this file
+function countDown(){
+let ymp = 10;
+while (ymp >= 0) {
+  console.log(ymp--);
+}
+}
